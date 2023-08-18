@@ -3,7 +3,7 @@ import * as ApiController from "../controllers/apiControllers";
 
 const router = Router()
 
-router.get('/city', ApiController.city)
-router.get('/city/:id', ApiController.cityId)
+router.get('/loja', ApiController.loja)
+router.get('/loja/:id', ApiController.lojaId)
 
 export default router

@@ -15,11 +15,11 @@ interface Loja {
 const filePath = path.join(__dirname, "dados.json");
 const dados = JSON.parse(fs.readFileSync(filePath, "utf8"));
 
-export const city = (req: Request, res: Response) => {
+export const loja = (req: Request, res: Response) => {
   res.json(dados);
 }
 
-export const cityId = (req: Request, res: Response) => {
+export const lojaId = (req: Request, res: Response) => {
   const lojaId = parseInt(req.params.id);
 
   const lojaEncontrada = dados.lojas.find((loja: Loja) => loja.id === lojaId);
