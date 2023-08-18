@@ -3,7 +3,7 @@ import * as ApiController from "../controllers/apiControllers";
 
 const router = Router()
 
-router.get('/ping', ApiController.ping)
 router.get('/city', ApiController.city)
+router.get('/city/:id', ApiController.cityId)
 
 export default router

@@ -1,95 +1,95 @@
 {
-    "lojas": [
-      {
-        "id": 1,
-        "nome_loja": "Loja A",
-        "cidade_loja": "Cidade A",
-        "endereco": "Endereço A",
-        "latitude": -23.550520,
-        "longitude": -46.633308,
-        "montante": 1000
-      },
-      {
-        "id": 2,
-        "nome_loja": "Loja B",
-        "cidade_loja": "Cidade B",
-        "endereco": "Endereço B",
-        "latitude": -22.906847,
-        "longitude": -43.172897,
-        "montante": 1500
-      },
-      {
-        "id": 3,
-        "nome_loja": "Loja C",
-        "cidade_loja": "Cidade C",
-        "endereco": "Endereço C",
-        "latitude": -27.594870,
-        "longitude": -48.548219,
-        "montante": 2000
-      },
-      {
-        "id": 4,
-        "nome_loja": "Loja D",
-        "cidade_loja": "Cidade D",
-        "endereco": "Endereço D",
-        "latitude": -30.027704,
-        "longitude": -51.228735,
-        "montante": 800
-      },
-      {
-        "id": 5,
-        "nome_loja": "Loja E",
-        "cidade_loja": "Cidade E",
-        "endereco": "Endereço E",
-        "latitude": -25.428951,
-        "longitude": -49.267137,
-        "montante": 3000
-      },
-      {
-        "id": 6,
-        "nome_loja": "Loja F",
-        "cidade_loja": "Cidade F",
-        "endereco": "Endereço F",
-        "latitude": -12.974722,
-        "longitude": -38.476665,
-        "montante": 500
-      },
-      {
-        "id": 7,
-        "nome_loja": "Loja G",
-        "cidade_loja": "Cidade G",
-        "endereco": "Endereço G",
-        "latitude": -8.054277,
-        "longitude": -34.881256,
-        "montante": 2500
-      },
-      {
-        "id": 8,
-        "nome_loja": "Loja H",
-        "cidade_loja": "Cidade H",
-        "endereco": "Endereço H",
-        "latitude": -3.731861,
-        "longitude": -38.526670,
-        "montante": 1200
-      },
-      {
-        "id": 9,
-        "nome_loja": "Loja I",
-        "cidade_loja": "Cidade I",
-        "endereco": "Endereço I",
-        "latitude": -22.902780,
-        "longitude": -43.207500,
-        "montante": 1800
-      },
-      {
-        "id": 10,
-        "nome_loja": "Loja J",
-        "cidade_loja": "Cidade J",
-        "endereco": "Endereço J",
-        "latitude": -23.961830,
-        "longitude": -46.332230,
-        "montante": 700
-      }
-    ]
-  }
+  "lojas": [
+    {
+      "id": 1,
+      "nome_loja": "Loja A",
+      "cidade_loja": "Cidade A",
+      "endereco": "Endereço A",
+      "latitude": -23.550520,
+      "longitude": -46.633308,
+      "montante": 1000
+    },
+    {
+      "id": 2,
+      "nome_loja": "Loja B",
+      "cidade_loja": "Cidade B",
+      "endereco": "Endereço B",
+      "latitude": -22.906847,
+      "longitude": -43.172897,
+      "montante": 1500
+    },
+    {
+      "id": 3,
+      "nome_loja": "Loja C",
+      "cidade_loja": "Cidade C",
+      "endereco": "Endereço C",
+      "latitude": -27.594870,
+      "longitude": -48.548219,
+      "montante": 2000
+    },
+    {
+      "id": 4,
+      "nome_loja": "Loja D",
+      "cidade_loja": "Cidade D",
+      "endereco": "Endereço D",
+      "latitude": -30.027704,
+      "longitude": -51.228735,
+      "montante": 800
+    },
+    {
+      "id": 5,
+      "nome_loja": "Loja E",
+      "cidade_loja": "Cidade E",
+      "endereco": "Endereço E",
+      "latitude": -25.428951,
+      "longitude": -49.267137,
+      "montante": 3000
+    },
+    {
+      "id": 6,
+      "nome_loja": "Loja F",
+      "cidade_loja": "Cidade F",
+      "endereco": "Endereço F",
+      "latitude": -12.974722,
+      "longitude": -38.476665,
+      "montante": 500
+    },
+    {
+      "id": 7,
+      "nome_loja": "Loja G",
+      "cidade_loja": "Cidade G",
+      "endereco": "Endereço G",
+      "latitude": -8.054277,
+      "longitude": -34.881256,
+      "montante": 2500
+    },
+    {
+      "id": 8,
+      "nome_loja": "Loja H",
+      "cidade_loja": "Cidade H",
+      "endereco": "Endereço H",
+      "latitude": -3.731861,
+      "longitude": -38.526670,
+      "montante": 1200
+    },
+    {
+      "id": 9,
+      "nome_loja": "Loja I",
+      "cidade_loja": "Cidade I",
+      "endereco": "Endereço I",
+      "latitude": -22.902780,
+      "longitude": -43.207500,
+      "montante": 1800
+    },
+    {
+      "id": 10,
+      "nome_loja": "Loja J",
+      "cidade_loja": "Cidade J",
+      "endereco": "Endereço J",
+      "latitude": -23.961830,
+      "longitude": -46.332230,
+      "montante": 700
+    }
+  ]
+}
   
