@@ -2,7 +2,7 @@ import express, { Request, Response } from "express"
 import path from "path"
 import dotenv from "dotenv"
 import apiRoutes from "./routes/api"
-var cors = require('cors')
+import cors from "cors"
 
 
 dotenv.config()
